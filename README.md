@@ -1,5 +1,5 @@
 # FanControl
-Fan control software based on "Netbook FanControl" which didn't work for my CPU
+Fan control software based on "Netbook FanControl" which didn't work for my CPU.
 
 This is experimental and you can mess stuff up if you use this.
 
