@@ -1,0 +1,14 @@
+C:\Dev\C#\FanControl\FanControl\bin\Debug\FanControl.exe.config
+C:\Dev\C#\FanControl\FanControl\bin\Debug\FanControl.exe
+C:\Dev\C#\FanControl\FanControl\bin\Debug\FanControl.pdb
+C:\Dev\C#\FanControl\FanControl\bin\Debug\clipr.dll
+C:\Dev\C#\FanControl\FanControl\bin\Debug\StagWare.BiosInfo.dll
+C:\Dev\C#\FanControl\FanControl\bin\Debug\StagWare.FanControl.Configurations.dll
+C:\Dev\C#\FanControl\FanControl\bin\Debug\StagWare.FanControl.dll
+C:\Dev\C#\FanControl\FanControl\bin\Debug\es\clipr.resources.dll
+C:\Dev\C#\FanControl\FanControl\obj\Debug\FanControl.csprojResolveAssemblyReference.cache
+C:\Dev\C#\FanControl\FanControl\obj\Debug\FanControl.Form1.resources
+C:\Dev\C#\FanControl\FanControl\obj\Debug\FanControl.Properties.Resources.resources
+C:\Dev\C#\FanControl\FanControl\obj\Debug\FanControl.csproj.GenerateResource.Cache
+C:\Dev\C#\FanControl\FanControl\obj\Debug\FanControl.exe
+C:\Dev\C#\FanControl\FanControl\obj\Debug\FanControl.pdb
